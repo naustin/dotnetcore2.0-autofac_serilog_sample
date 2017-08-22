@@ -1,0 +1,1 @@
+# dotnetcore2.0-autofac_serilog_sample
