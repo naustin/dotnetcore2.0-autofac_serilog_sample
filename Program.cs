@@ -16,7 +16,6 @@ namespace SerilogAutofacApiTemplate
     {
         public static int Main(string[] args)
         {
-            BuildWebHost(args).Run();
 
             Log.Logger = new LoggerConfiguration()
            .MinimumLevel.Debug()
